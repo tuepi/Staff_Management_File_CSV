@@ -25,14 +25,12 @@ public class Main {
                 ===========TÍNH TỔNG===========
                 1. Lương NV Fulltime
                 2. Lương NV Parttime
-                0. Thoát
                 """;
 
         String printStaffMenu = """
                 ===========HIỂN THỊ===========
                 1. Nhân Viên Fulltime
                 2. Nhân Viên Parttime
-                0. Thoát
                 """;
 
         int choice = -1;
